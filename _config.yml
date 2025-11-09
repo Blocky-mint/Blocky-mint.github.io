@@ -29,3 +29,9 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 # still need to list any extra plugins here for Jekyll to activate them.
 plugins:
   - jekyll-include-cache
+
+# Author settings
+author:
+  name: "Blocky-mint"
+  avatar: "/assets/images/bio-photo.jpg" # You can add a profile picture here later
+  bio: "Just a guy making a website." # A little description
