@@ -1,3 +1,9 @@
+---
+layout: single
+title: "About Me"
+permalink: /about/
+---
+
 Idk, contains some things. WIP 
 
 I like blue color and sci-fi and anime
