@@ -47,7 +47,6 @@ author:
   bio: "Just a guy making a website." # A little description
 
 # Defaults for Pages and Posts
-# This tells every page and post what layout to use by default.
 defaults:
   # _posts
   - scope:
@@ -55,11 +54,17 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true # This shows the author sidebar
-  # _pages
+      author_profile: true
+  # _pages - BUT NOT splash pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+  # Homepage specifically
+  - scope:
+      path: "index.md"
+    values:
+      layout: splash
+      author_profile: false
