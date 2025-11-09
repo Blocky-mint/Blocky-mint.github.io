@@ -1,4 +1,32 @@
-theme: minimal-mistakes-jekyll
-title: Blocky-personal-corners
-description: My personal github pages in the corner of the internet
-plugins: jekyll-include-cache
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect my whole blog, values
+# which i am expected to set up once and rarely edit after that. If i find
+# myself editing this file very often, could consider using Jekyll's data files
+# feature for the data i need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when i use
+# 'bundle exec jekyll serve'. If i change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize my new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# I can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.data.filename }}.
+title: Blocky-personal-corners 
+description: >- # this means to ignore newlines until "baseurl:"
+  My personal corners in the internet
+baseurl: "" # the subpath of my site, e.g. /blog
+url: "https://Blocky-mint.github.io" # the base hostname & protocol for my site
+github_username: Blocky-mint
+
+# Build settings
+# As per the official documentation for the theme, use remote_theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # can update the version number if needed
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Plugins
+# Both the theme and github-pages gems are now correctly grouped in the Gemfile.
+# still need to list any extra plugins here for Jekyll to activate them.
+plugins:
+  - jekyll-include-cache
