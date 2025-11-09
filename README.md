@@ -1,3 +1,3 @@
 # Blocky's Personal Corner
 
-My personal site - check it out at [the website](https://Blocky-mint.github.io)
+My personal site - check it out in [here](https://Blocky-mint.github.io)
