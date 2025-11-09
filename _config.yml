@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # I can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.data.filename }}.
-title: "Blocky's Personal Corner"
+title: "Blocky's Corner"
+masthead_title: " "  # This hides the redundant title in navigation
 description: >- # this means to ignore newlines until "baseurl:"
   My personal corners in the internet
 baseurl: "" # the subpath of my site, e.g. /blog
