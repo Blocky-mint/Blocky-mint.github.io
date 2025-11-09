@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # I can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.data.filename }}.
+title: "Blocky's Personal Corner"
 description: >- # this means to ignore newlines until "baseurl:"
   My personal corners in the internet
 baseurl: "" # the subpath of my site, e.g. /blog
@@ -33,5 +34,23 @@ plugins:
 # Author settings
 author:
   name: "Blocky-mint"
-  avatar: "/assets/images/bio-photo.jpg" # You can add a profile picture here later
+  avatar: "/assets/images/bio-photo.jpg" # can add a profile picture here later
   bio: "Just a guy making a website." # A little description
+
+# Defaults for Pages and Posts
+# This tells every page and post what layout to use by default.
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true # This shows the author sidebar
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
