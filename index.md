@@ -11,6 +11,5 @@ header:
     - label: "About Me"
       url: "/about/"
 excerpt: "Welcome to my site."
-title: " "
 author_profile: false
 ---
