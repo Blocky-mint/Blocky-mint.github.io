@@ -25,6 +25,14 @@ github_username: Blocky-mint
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" # can update the version number if needed
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Include pages directory
+include: ["_pages"]
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    
 # Plugins
 # Both the theme and github-pages gems are now correctly grouped in the Gemfile.
 # still need to list any extra plugins here for Jekyll to activate them.
