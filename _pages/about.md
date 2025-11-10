@@ -43,3 +43,23 @@ https://en.wikipedia.org/wiki/Layer_2_MPLS_VPN
 https://futo.org
 
 My bookmarked reddit comment and post (probably gonna be empty for a while cuz i save so many post and comment):
+
+
+
+
+
+
+
+
+
+
+---
+
+## Credits & Attribution
+
+**Artwork used on this site:**
+
+- **Header/Splash Image** (placeholder.png): Artwork by [darkar503](https://wallhere.com/en/user/1197)
+- **Profile Picture** (bio-photo.jpg): Artwork by [Obseek](https://wallhere.com/en/user/174)
+
+All artwork is used with attribution under their respective licenses. Thank you to these talented artists for their amazing work!
