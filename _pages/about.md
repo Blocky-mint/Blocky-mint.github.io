@@ -6,7 +6,9 @@ permalink: /about/
 
 Idk, contains some things. WIP 
 
-I like blue color and sci-fi and anime
+I like blue color and sci-fi and anime.
+also, i love playing games like HI3, Honkai Gakuen, GD, My Space Galaxy etc etc... in reality, i play so many games i forgot most of them lol... i only remember the important ones~
+
 Just gonna list some interesting things i found in the internet here
 
 My bookmark:
@@ -32,5 +34,12 @@ https://browserleaks.com/
 https://en.wikipedia.org/wiki/Magic_number_(programming)#Debug_values
 https://stackoverflow.com/questions/1087549/an-erlang-written-in-ada
 https://erlang.org/pipermail/erlang-questions/2007-March/025803.html
+https://amiunique.org/
+https://deviceinfo.me
+https://seoaryan97.wixsite.com/pynetlabs/post/a-deep-dive-into-multicasting-and-qos-in-networking
+https://community.cisco.com/t5/other-network-architecture-subjects/qos-for-multicast-traffic/td-p/4574674
+https://en.wikipedia.org/w/index.php?title=Risk
+https://en.wikipedia.org/wiki/Layer_2_MPLS_VPN
+https://futo.org
 
-My bookmarked reddit comment and post:
+My bookmarked reddit comment and post (probably gonna be empty for a while cuz i save so many post and comment):
