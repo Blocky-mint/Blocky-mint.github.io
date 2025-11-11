@@ -13,3 +13,10 @@ header:
 excerpt: "Welcome to my site."
 author_profile: false
 ---
+
+---
+## License
+
+The code in this repository (all code files like `.scss` etc) is licensed under the **MIT License**. Please see the `LICENSE` file for the full text.
+
+All other content (including the text in `.md` files, as well as any images) is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
