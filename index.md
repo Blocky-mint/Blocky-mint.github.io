@@ -17,6 +17,8 @@ author_profile: false
 ---
 ## License
 
-The code in this repository (all code files like `.scss` etc) is licensed under the **MIT License**. Please see the `LICENSE` file for the full text.
+The code in this repository (files like `.scss`) is licensed under the **MIT License**. See the `LICENSE` file for the full text.
 
-most other content (including the text in `.md` files) is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
+Original written content (such as the text in `.md` files) is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
+
+This license does not apply to any images used in this github pages, which may be subject to their own separate copyrights.
