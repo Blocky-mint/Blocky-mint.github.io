@@ -41,6 +41,10 @@ My bookmark:
 - https://en.wikipedia.org/w/index.php?title=Risk
 - https://en.wikipedia.org/wiki/Layer_2_MPLS_VPN
 - https://futo.org
+- https://www.chiark.greenend.org.uk/~peterb/network/drop-vs-reject
+- http://www.catb.org/~esr/faqs/smart-questions.html
+- https://community.cisco.com/t5/switching/quality-of-service-clarification-marking-vs-classification/td-p/5083239
+- https://fasterdata.es.net/performance-testing/network-troubleshooting-tools/throughput-tool-comparision/
 
 My bookmarked reddit comment and post (probably gonna be empty for a while cuz i save so many post and comment):
 
