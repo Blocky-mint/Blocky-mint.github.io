@@ -4,14 +4,22 @@ title: "About Me"
 permalink: /about/
 ---
 
-Idk, contains some things. WIP 
+ WIP 
 
 I like blue color and sci-fi and anime.
 also, i love playing games like HI3, Honkai Gakuen, GD, My Space Galaxy etc etc... in reality, i play so many games i forgot most of them lol... i only remember the important ones~
 
 Just gonna list some interesting things i found in the internet here
 
+Games i want to play in the future:
 
+- https://play.google.com/store/apps/dev?id=7277871110571970988
+
+- https://store.steampowered.com/app/230290?snr=1_2108_9__2107
+
+- https://anantagame.com
+
+- https://store.steampowered.com/app/314650/SpaceEngine/
 
 ---
 My bookmark:
