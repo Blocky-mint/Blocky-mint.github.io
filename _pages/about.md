@@ -567,6 +567,12 @@ My saved reddit post:
 - https://www.reddit.com/r/Animesuggest/comments/qn98hg/animes_set_in_the_future_with_ai_and_robots/
 - https://www.reddit.com/r/learnprogramming/comments/i41exm/does_anyone_have_any_general_tips_for_writing/
 - https://www.reddit.com/r/HomeNetworking/comments/k0qsff/wifi_5ghz_any_reason_not_to_select_204080_mhz_vs/
+- https://www.reddit.com/r/thanksimcured/comments/1orp6ll/ah_yes_sunlight/
+- https://www.reddit.com/r/Lolirefugees/comments/1ou8xww/plana_blue_archive/
+- https://www.reddit.com/r/programming/comments/8r9ie/googles_use_of_ffmpeg_in_chromium_and_chrome/
+- https://www.reddit.com/r/SillyTavernAI/comments/1ov5gvv/i_scraped_200_glm_vs_ds_threads_heres_when_to/
+- https://www.reddit.com/r/TrueOffMyChest/comments/1ouxzda/i_was_babytrapped_now_im_being_forced_to_pay/
+- https://www.reddit.com/r/anime_irl/comments/1ovh765/anime_irl/
 
 My saved reddit comment:
 
@@ -679,6 +685,8 @@ My saved reddit comment:
 - https://www.reddit.com/r/HomeNetworking/comments/1orp708/my_mom_said_the_wifi_was_slow/nnruu9h/
 - https://www.reddit.com/r/indonesia/comments/1orea9t/kenapa_malah_banyak_yang_simpati_dengan_pelaku/nnpkv7f/
 - https://www.reddit.com/r/AskHistorians/comments/1osp0do/why_werent_elephants_more_common_in_chinese/nnypedb/
+- https://www.reddit.com/r/SillyTavernAI/comments/1ouh1a5/comment/nobxtdw/?context=3
+- https://www.reddit.com/r/Bard/comments/1ovvmjo/comment/nolrwwl/?context=3
 
 ---
 
