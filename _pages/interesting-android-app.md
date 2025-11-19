@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Android App"
+permalink: /interesting-android-app/
+---
+
 # list of most of my installed apps on google play store, github, and steam (in case if my phone or laptop is stolen or accidentally destroyed)
 
 
