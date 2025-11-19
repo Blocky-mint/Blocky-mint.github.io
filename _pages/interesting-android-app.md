@@ -1,50 +1,53 @@
-list of most of my installed apps on google play store, github, and steam (in case if my phone or laptop is stolen or accidentally destroyed)
+# list of most of my installed apps on google play store, github, and steam (in case if my phone or laptop is stolen or accidentally destroyed)
 
-Phone apps:
 
-- ChatGPT by OpenAI
-- Google by google (no shit sherlock)
-- Signal messenger by Signal Foundation
-- Malwarebytes by Malwarebytes Mobile Security
-- Firefox by Mozilla Foundation
-- Proton VPN by Proton AG
-- Indeed Job Search (idk why i installed this app in the first place, but its better than linkedin imo)
-- GitHub by GitHub (bruh)
-- Roblox by Roblox Corporation
-- Discord by Discord Inc
-- Chess by Chess.com
-- Obsidian by Dynalist Inc
-- Delta chat by merlinux
-- Google NotebookLM by Google (obviously)
-- Bitwarden by Bitwarden Inc
-- WiFi Analyzer by VREM Software Development
-- Aegis authenticator by Beem Development
-- Network Survey by Craxiom
-- All Documents Reader by TrustedOffice
-- BlueSky
-- Proton Calendar
-- LocalSend
-- osu!stream
-- Termux
-- Simple Keyboard
-- Binary eye
-- OSS Document scanner
-- Open Camera
-- Geometry Dash
-- ZArchiver
-- Foodie town by Nino Games limited
-- FX File Explorer
-- Iperf 2
-- Labyrinth Legend
-- Magic Earth
-- MarineTraffic
-- mpv-android
+## Phone apps:
 
-laptop app on linuxmint:
+- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) by [OpenAI](https://openai.com/)
+- [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) by [Google](https://about.google/) (no shit sherlock)
+- [Signal messenger](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) by [Signal Foundation](https://signal.org/)
+- [Malwarebytes](https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware) by [Malwarebytes Mobile Security](https://www.malwarebytes.com/)
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) by [Mozilla Foundation](https://www.mozilla.org/)
+- [Proton VPN](https://play.google.com/store/apps/details?id=com.protonvpn.android) by [Proton AG](https://proton.me/vpn)
+- [Indeed Job Search](https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch) by [Indeed](https://www.indeed.com/) (idk why i installed this app in the first place, but its better than linkedin imo)
+- [GitHub](https://play.google.com/store/apps/details?id=com.github.android) by [GitHub](https://github.com/) (bruh)
+- [Roblox](https://play.google.com/store/apps/details?id=com.roblox.client) by [Roblox Corporation](https://www.roblox.com/)
+- [Discord](https://play.google.com/store/apps/details?id=com.discord) by [Discord Inc](https://discord.com/)
+- [Chess](https://play.google.com/store/apps/details?id=com.chess) by [Chess.com](https://www.chess.com/)
+- [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) by [Dynalist Inc](https://obsidian.md/)
+- [Delta chat](https://play.google.com/store/apps/details?id=com.b44t.messenger) by [merlinux](https://delta.chat/)
+- [Google NotebookLM](https://play.google.com/store/apps/details?id=com.google.android.apps.notebooklm) by [Google](https://notebooklm.google.com/) (obviously)
+- [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) by [Bitwarden Inc](https://bitwarden.com/)
+- [WiFi Analyzer](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) by [VREM Software Development](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/)
+- [Aegis authenticator](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) by [Beem Development](https://getaegis.app/)
+- [Network Survey](https://play.google.com/store/apps/details?id=com.craxiom.networksurvey) by [Craxiom](https://networksurvey.app/)
+- [All Documents Reader](https://play.google.com/store/apps/details?id=com.trusted.office.documents.reader) by [TrustedOffice](https://play.google.com/store/apps/dev?id=8406273496943086949)
+- [BlueSky](https://play.google.com/store/apps/details?id=xyz.blueskyweb.app) by [BlueSky PBLLC](https://bsky.social/)
+- [Proton Calendar](https://play.google.com/store/apps/details?id=me.proton.android.calendar) by [Proton AG](https://proton.me/calendar)
+- [LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app) by [Tien Do Nam](https://localsend.org/)
+- [osu!stream](https://play.google.com/store/apps/details?id=sh.ppy.osustream) by [ppy Pty Ltd](https://osu.ppy.sh/)
+- [Termux](https://play.google.com/store/apps/details?id=com.termux) by [Fredrik Fornwall](https://termux.dev/en/)
+- [Simple Keyboard](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod) by [Raimondas Rimkus](https://github.com/rkkr/simple-keyboard)
+- [Binary eye](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) by [Markus Fisch](https://github.com/markusfisch/BinaryEye)
+- [OSS Document scanner](https://play.google.com/store/apps/details?id=com.akylas.documentscanner) by [Akylas](https://github.com/Akylas/oss-document-scanner)
+- [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) by [Mark Harman](https://opencamera.org.uk/)
+- [Geometry Dash](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump) by [RobTop](http://www.robtopgames.com/)
+- [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) by [ZDevs](https://play.google.com/store/apps/dev?id=6265256736331335203)
+- [Foodie town](https://play.google.com/store/apps/details?id=com.ninogames.foodietown) by [Nino Games limited](https://www.facebook.com/FoodieTownGame)
+- [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx) by [NextApp, Inc.](https://nextapp.com/)
+- [Iperf 2](https://play.google.com/store/apps/details?id=com.nextdoordeveloper.miperf.miperf) by [Kaushik Battu](https://play.google.com/store/apps/dev?id=8364896332981686329)
+- [Labyrinth Legend](https://play.google.com/store/apps/details?id=com.SinobiGames.CursedDungeon&hl=en-US) by [シノビゲームズ](https://twitter.com/sinobigames)
+- [Magic Earth](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth) by [Magic Lane International B.V.](https://www.magicearth.com/)
+- [MarineTraffic](https://play.google.com/store/apps/details?id=com.marinetraffic.android) by [MarineTraffic Applications](https://www.marinetraffic.com/)
+- [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv) by [Prismriver Media](https://github.com/mpv-android/mpv-android)
+- [Seal](https://github.com/JunkFood02/Seal) by [JunkFood02](https://github.com/JunkFood02)
+- [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) by [MarmadileManteater](https://github.com/MarmadileManteater)
 
-- Bitwarden (Flatpak version)
-- WinBox 4 by Mikrotik
-- Discord (.deb version)
-- Battle for Wesnoth (software manager)
-- DDLC (Steam version)
-- Muck by 
+### laptop app on linuxmint:
+
+- [Bitwarden](https://flathub.org/apps/com.bitwarden.desktop) (Flatpak version)
+- [WinBox 4](https://mikrotik.com/download) by [Mikrotik](https://mikrotik.com/)
+- [Discord](https://discord.com/download) (.deb version)
+- [Battle for Wesnoth](https://flathub.org/apps/org.wesnoth.Wesnoth) (software manager)
+- [DDLC](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) (Steam version)
+- [Muck](https://store.steampowered.com/app/1625450/Muck/) by [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDsjkc1hg)
