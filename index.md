@@ -10,6 +10,10 @@ header:
       url: "/posts/"
     - label: "About Me"
       url: "/about/"
+    - label: "Android App"
+      url: "/interesting-android-app/"
+    - label: "AI Roleplay"
+      url: "/character-card-list/" 
 excerpt: "Welcome to my site."
 author_profile: false
 ---
