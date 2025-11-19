@@ -39,7 +39,7 @@ permalink: /interesting-android-app/
 - [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) by [Mark Harman](https://opencamera.org.uk/)
 - [Geometry Dash](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump) by [RobTop](http://www.robtopgames.com/)
 - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) by [ZDevs](https://play.google.com/store/apps/dev?id=6265256736331335203)
-- [Foodie town](https://play.google.com/store/apps/details?id=com.ninogames.foodietown) by [Nino Games limited](https://www.facebook.com/FoodieTownGame)
+- [Foodie town](https://play.google.com/store/apps/details?id=com.ninogame.foodietown.google) by [Nino Games limited](https://www.facebook.com/FoodieTownGame)
 - [FX File Explorer](https://play.google.com/store/apps/details?id=nextapp.fx) by [NextApp, Inc.](https://nextapp.com/)
 - [Iperf 2](https://play.google.com/store/apps/details?id=com.nextdoordeveloper.miperf.miperf) by [Kaushik Battu](https://play.google.com/store/apps/dev?id=8364896332981686329)
 - [Labyrinth Legend](https://play.google.com/store/apps/details?id=com.SinobiGames.CursedDungeon&hl=en-US) by [シノビゲームズ](https://twitter.com/sinobigames)
