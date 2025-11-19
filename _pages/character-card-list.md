@@ -1,3 +1,9 @@
+---
+layout: single
+title: "AI Roleplay"
+permalink: /character-card-list/
+---
+
 A curated list of interesting character card sites. Be warned: the content within can range from merely questionable to downright degenerate. Proceed at your own discretion (some of these site might be already discontinued or will be discontinued in the future)
 
 
