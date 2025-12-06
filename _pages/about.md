@@ -573,6 +573,57 @@ My saved reddit post:
 - https://www.reddit.com/r/SillyTavernAI/comments/1ov5gvv/i_scraped_200_glm_vs_ds_threads_heres_when_to/
 - https://www.reddit.com/r/TrueOffMyChest/comments/1ouxzda/i_was_babytrapped_now_im_being_forced_to_pay/
 - https://www.reddit.com/r/anime_irl/comments/1ovh765/anime_irl/
+- https://www.reddit.com/r/Yanderes/comments/1owcmnq/me_and_akari/
+- https://www.reddit.com/r/Lolirefugees/comments/1owgk8g/nozomi_blue_archive/
+- https://www.reddit.com/r/networking/comments/7zauql/i_tricked_a_company_into_paying_me_too_much_for_a/
+- https://www.reddit.com/r/Yanderes/comments/1owht47/my_when_i_inject_gf_with_estrogen/
+- https://www.reddit.com/r/Yanderes/comments/1owxqyh/please_dont_be_scared_if_i_obsess_over_you_3/
+- https://www.reddit.com/r/Yanderes/comments/1ow8a42/%E1%97%92%E1%97%A3%E1%97%95/
+- https://www.reddit.com/r/AskReddit/comments/1ox48xm/people_who_used_the_internet_between_1991_and/
+- https://www.reddit.com/r/Animemes/comments/1ou7gx0/hell_yeah/
+- https://www.reddit.com/r/technicallythetruth/comments/1ox698e/gas_prices_are_down/
+- https://www.reddit.com/r/networkingmemes/comments/1o3cqjp/lets_see_your_networking_related_wifi_network/
+- https://www.reddit.com/r/Yanderes/comments/1oxfanz/if_i_were_a_book_all_my_pages_would_be_of_you/
+- https://www.reddit.com/r/Lolirefugees/comments/1oxok54/witch_hifumi_by_shu_blue_archive/
+- https://www.reddit.com/r/LocalLLaMA/comments/1oxb9zp/local_models_handle_tools_way_better_when_you/
+- https://www.reddit.com/r/Yanderes/comments/1oxx6h8/if_you_had_any_idea_the_depths_of_utter/
+- https://www.reddit.com/r/indotech/comments/1oy9ct2/tips_agar_semut_tidak_bersarang_di_headphone_lagi/
+- https://www.reddit.com/r/AskHistorians/comments/1oxzyje/it_was_believed_that_the_azores_were_uninhabited/
+- https://www.reddit.com/r/selfhosted/comments/1oxmsm3/what_are_some_interesting_apps_youre_self_hosting/
+- https://www.reddit.com/r/arch/comments/1oxo2lb/hey_can_you_guys_stop_accidentally_encouraging/
+- https://www.reddit.com/r/WhatAWeeb/comments/1oxot7j/whataweeb/
+- https://www.reddit.com/r/AskHistorians/comments/1oy3by1/is_there_any_evidence_of_actual_suppression_of/
+- https://www.reddit.com/r/indotech/comments/1ol02vj/monthly_general_discussion_november_2025/
+- https://www.reddit.com/r/indotech/comments/1ol02wx/resource_and_project_showcase_november_2025/
+- https://www.reddit.com/r/LocalLLaMA/comments/1oy9w39/do_we_need_a_language_model_torrent_index/
+- https://www.reddit.com/r/SillyTavernAI/comments/1oxlwbc/gpt_51_defaults_to_assuming_you_are_a_rapist_and/
+- https://www.reddit.com/r/SillyTavernAI/comments/1oyl5ub/io_cute_timid_lonely_moth_girl/
+- https://www.reddit.com/r/SillyTavernAI/comments/1nxux4y/sfw_character_card_site/
+- https://www.reddit.com/r/SillyTavernAI/comments/1i0qzf2/finding_better_character_cards/
+- https://www.reddit.com/r/networkingmemes/comments/1nbmxdc/tell_me_what_networking_brands_you_use_for_each/
+- https://www.reddit.com/r/Yanderes/comments/1oz17wh/me_be_like_3/
+- https://www.reddit.com/r/Damnthatsinteresting/comments/1oywew6/20_years_worth_of_spent_nuclear_fuel_from_a/
+- https://www.reddit.com/r/interestingasfuck/comments/1oz1hdg/this_is_how_the_human_body_loses_heat_in_cold/
+- https://www.reddit.com/r/Yanderes/comments/1ozb55e/not_like_thats_gonna_stop_meee/
+- https://www.reddit.com/r/indotech/comments/1jad3ix/cuma_situs_biasa_kok_hehe/
+- https://www.reddit.com/r/anime_irl/comments/1oz9fzi/anime_irl/
+- https://www.reddit.com/r/Lolirefugees/comments/1oz9eqw/hina_blue_archive_by_me/
+- https://www.reddit.com/r/anime_random/comments/1oz4am7/choose/
+- https://www.reddit.com/r/Lolirefugees/comments/1ozqkq4/ibuki_blue_archive/
+- https://www.reddit.com/r/Yanderes/comments/1ozb4t9/3/
+- https://www.reddit.com/r/Lolirefugees/comments/1ozqljh/reisa_blue_archive/
+- https://www.reddit.com/r/LifeProTips/comments/1ozzvt7/lpt_move_east_drive_west/
+- https://www.reddit.com/r/AskReddit/comments/1ozltrc/whats_something_happening_right_now_that_would/
+- https://www.reddit.com/r/gaming/comments/1oznchm/hypixel_studios_has_acquired_hytale_from_riot/
+- https://www.reddit.com/r/anime_irl/comments/1ozd6xz/anime_irl/
+- https://www.reddit.com/r/NoStupidQuestions/comments/1oys0v5/wouldnt_being_born_any_sexuality_imply_that/
+- https://www.reddit.com/r/JustYuri/comments/1ozwcf7/yuri_waited_for_this_all_day/
+- https://www.reddit.com/r/LocalLLaMA/comments/1ozu5v4/20000_epstein_files_in_a_single_text_file/
+- https://www.reddit.com/r/JustYuri/comments/1oz27xl/weapons_of_mass_destraction/
+- https://www.reddit.com/r/MadeMeSmile/comments/1p06ckg/the_best_way_to_ask/
+- https://www.reddit.com/r/anime_irl/comments/1p011gd/anime_irl/
+- https://www.reddit.com/r/anime_irl/comments/1ozutus/anime_irl/
+- https://www.reddit.com/r/WhatAWeeb/comments/1p09fzm/whataweeb/
 
 My saved reddit comment:
 
@@ -687,9 +738,66 @@ My saved reddit comment:
 - https://www.reddit.com/r/AskHistorians/comments/1osp0do/why_werent_elephants_more_common_in_chinese/nnypedb/
 - https://www.reddit.com/r/SillyTavernAI/comments/1ouh1a5/comment/nobxtdw/?context=3
 - https://www.reddit.com/r/Bard/comments/1ovvmjo/comment/nolrwwl/?context=3
+- https://www.reddit.com/r/ClaudeAI/comments/1oy8w10/comment/np35vdx/?context=3
+- https://www.reddit.com/r/DataHoarder/comments/1oyci0k/comment/np3us0s/?context=3
+- https://www.reddit.com/r/singularity/comments/1ox8job/comment/novht9t/?context=3
+- https://www.reddit.com/r/linux/comments/1oy3vkg/comment/np47nfq/?context=3
+- https://www.reddit.com/r/SillyTavernAI/comments/1la9x7e/comment/mxj8owa/?context=3
+- https://www.reddit.com/r/linuxmint/comments/1oyns2q/comment/np5mo7r/?context=3
+- https://www.reddit.com/r/thanksimcured/comments/1oqkcsh/comment/nnvrs12/?context=3
+- https://www.reddit.com/r/Threedaysgrace/comments/1b37ckt/comment/ksqzaxi/?context=3
 
+Subreddit's that i joined:
+
+- https://www.reddit.com/r/Bard/ (starred subreddit)
+- https://www.reddit.com/r/MachineLearning/ (starred subreddit)
+- https://www.reddit.com/r/science/ (same as above)
+- https://www.reddit.com/r/accelerate/
+- https://www.reddit.com/r/anime/
+- https://www.reddit.com/r/AskHistorians/
+- https://www.reddit.com/r/bigseo/
+- https://www.reddit.com/r/bioinformatics/
+- https://www.reddit.com/r/biology/
+- https://www.reddit.com/r/CFB/
+- https://www.reddit.com/r/ClaudeAI/
+- https://www.reddit.com/r/cogsci/
+- https://www.reddit.com/r/cryptography/
+- https://www.reddit.com/r/DataHoarder/
+- https://www.reddit.com/r/gaming/
+- https://www.reddit.com/r/homelab/
+- https://www.reddit.com/r/interestingasfuck/
+- https://www.reddit.com/r/JustYuri/
+- https://www.reddit.com/r/law/
+- https://www.reddit.com/r/LifeProTips/
+- https://www.reddit.com/r/LightNovels/
+- https://www.reddit.com/r/linuxmint/
+- https://www.reddit.com/r/LocalLLaMA/
+- https://www.reddit.com/r/Lolirefugees/
+- https://www.reddit.com/r/LoveNikki/
+- https://www.reddit.com/r/magiaexedra/
+- https://www.reddit.com/r/mentalhealth/
+- https://www.reddit.com/r/mikrotik/
+- https://www.reddit.com/r/modnews/
+- https://www.reddit.com/r/modular/
+- https://www.reddit.com/r/netsec/
+- https://www.reddit.com/r/openwrt/
+- https://www.reddit.com/r/opsec/
+- https://www.reddit.com/r/ps5homebrew/
+- https://www.reddit.com/r/selfhosted/
+- https://www.reddit.com/r/shitposting/
+- https://www.reddit.com/r/shittymobilegameads/
+- https://www.reddit.com/r/SillyTavernAI/
+- https://www.reddit.com/r/thanksimcured/
+- https://www.reddit.com/r/touhou/
+- https://www.reddit.com/r/TrueOffMyChest/
+- https://www.reddit.com/r/UnresolvedMysteries/
+- https://www.reddit.com/r/wifi/
+- https://www.reddit.com/r/xfce/
+- https://www.reddit.com/r/Yanderes/
 ---
+My twitter bookmark:
 
+- 
 ---
 
 ## Credits & Attribution
