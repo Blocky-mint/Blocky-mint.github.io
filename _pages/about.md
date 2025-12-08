@@ -9,6 +9,8 @@ permalink: /about/
 I like blue color and sci-fi and anime.
 also, i love playing games like HI3, Honkai Gakuen, GD, My Space Galaxy etc etc... in reality, i play so many games i forgot most of them lol... i only remember the important ones~
 
+Dream phone: used pixel 8a, or nothing phone 3a or second-hand moto g84 5g
+
 Just gonna list some interesting things i found in the internet here
 
 Games i want to play in the future:
