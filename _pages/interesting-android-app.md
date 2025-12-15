@@ -48,6 +48,9 @@ permalink: /interesting-android-app/
 - [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv) by [Prismriver Media](https://github.com/mpv-android/mpv-android)
 - [Seal](https://github.com/JunkFood02/Seal) by [JunkFood02](https://github.com/JunkFood02)
 - [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) by [MarmadileManteater](https://github.com/MarmadileManteater)
+- [DDLC](https://play.google.com/store/apps/details?id=com.serenityforge.dokidokiliteratureclub) by [Serenity Forge](https://play.google.com/store/apps/dev?id=6093427985387716466)
+- [Arknights](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights) by [Yostar Limited.](https://play.google.com/store/apps/dev?id=5501543544118454799)
+
 
 ### laptop app on linuxmint:
 
