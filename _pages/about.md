@@ -25,7 +25,7 @@ Games i want to play in the future:
 
 ---
 
-For my full bookmark collection, see [my bookmarks page](/bookmarks/).
+For my full bookmark collection, see [my bookmarks page](/_pages/bookmarks.md/).
 
 ---
 
