@@ -11,6 +11,10 @@ also, i love playing games like HI3, Honkai Gakuen, GD, My Space Galaxy etc etc.
 
 Dream phone: used pixel 8a, or nothing phone 3a or second-hand moto g84 5g
 
+Dream laptop: https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p14s-gen-6-14-inch-amd-mobile-workstation/len101t0118
+
+Dream PC or Console: idk, havent thought of it yet
+
 Just gonna list some interesting things i found in the internet here
 
 Games i want to play in the future:
