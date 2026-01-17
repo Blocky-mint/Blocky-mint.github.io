@@ -13,6 +13,8 @@ Dream phone: used pixel 8a, or nothing phone 3a or second-hand moto g84 5g
 
 Dream laptop: https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p14s-gen-6-14-inch-amd-mobile-workstation/len101t0118
 
+new dream laptop or idk: https://www.dell.com/en-us/shop/dell-laptops/dell-xps-14-laptop/spd/xps-da14260-laptop , https://www.thinkwiki.org/wiki/Category:T43p
+
 Dream PC or Console: idk, havent thought of it yet
 
 Just gonna list some interesting things i found in the internet here
