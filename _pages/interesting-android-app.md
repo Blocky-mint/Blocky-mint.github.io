@@ -50,7 +50,8 @@ permalink: /interesting-android-app/
 - [FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) by [MarmadileManteater](https://github.com/MarmadileManteater)
 - [DDLC](https://play.google.com/store/apps/details?id=com.serenityforge.dokidokiliteratureclub) by [Serenity Forge](https://play.google.com/store/apps/dev?id=6093427985387716466)
 - [Arknights](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights) by [Yostar Limited.](https://play.google.com/store/apps/dev?id=5501543544118454799)
-
+- [Shopee](https://play.google.com/store/apps/details?id=com.shopee.id)
+-[Ente Photos](https://play.google.com/store/apps/details?id=io.ente.photos) by [Ente Technologies, Inc.](https://play.google.com/store/apps/dev?id=7619109578149549915)
 
 ### laptop app on linuxmint:
 
