@@ -52,6 +52,10 @@ permalink: /interesting-android-app/
 - [Arknights](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights) by [Yostar Limited.](https://play.google.com/store/apps/dev?id=5501543544118454799)
 - [Shopee](https://play.google.com/store/apps/details?id=com.shopee.id)
 - [Ente Photos](https://play.google.com/store/apps/details?id=io.ente.photos) by [Ente Technologies, Inc.](https://play.google.com/store/apps/dev?id=7619109578149549915)
+- [AlexCalc](https://play.google.com/store/apps/details?id=net.alexbarry.calc_android) by Alex Barry3
+- [Desmos Graphing Calculator](https://play.google.com/store/apps/details?id=com.desmos.calculator) by Desmos Inc
+
+
 
 ### laptop app on linuxmint:
 
