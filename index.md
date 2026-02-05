@@ -13,7 +13,9 @@ header:
     - label: "Android App"
       url: "/interesting-android-app/"
     - label: "AI Roleplay"
-      url: "/character-card-list/" 
+      url: "/character-card-list/"
+    - label: "My bookmarks"
+      url: "/bookmarks/"
 excerpt: "Welcome to my site."
 author_profile: false
 ---
