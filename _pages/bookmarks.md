@@ -979,25 +979,45 @@ My saved reddit comment:
 - https://www.reddit.com/r/manga/
 - https://www.reddit.com/r/mapporncirclejerk/
 - https://www.reddit.com/r/masterhacker/
+- https://www.reddit.com/r/memes/
 - https://www.reddit.com/r/mentalhealth/
 - https://www.reddit.com/r/mikrotik/
+- https://www.reddit.com/r/miku/
 - https://www.reddit.com/r/modnews/
 - https://www.reddit.com/r/modular/
+- https://www.reddit.com/r/MomForAMinute/
+- https://www.reddit.com/r/mouf/
 - https://www.reddit.com/r/netsec/
+- https://www.reddit.com/r/networking/
+- https://www.reddit.com/r/networkingmemes/
+- https://www.reddit.com/r/oddlyterrifying/
+- https://www.reddit.com/r/ofcoursethatsasub/
+- https://www.reddit.com/r/opensource/
 - https://www.reddit.com/r/openwrt/
 - https://www.reddit.com/r/opsec/
+- https://www.reddit.com/r/pics/
 - https://www.reddit.com/r/ps5homebrew/
+- https://www.reddit.com/r/RobinHood/
+- https://www.reddit.com/r/robotics/
+- https://www.reddit.com/r/RuckusWiFi/
 - https://www.reddit.com/r/selfhosted/
 - https://www.reddit.com/r/shitposting/
 - https://www.reddit.com/r/shittymobilegameads/
 - https://www.reddit.com/r/SillyTavernAI/
+- https://www.reddit.com/r/singularity/
+- https://www.reddit.com/r/SipsTea/
+- https://www.reddit.com/r/sssdfg/
+- https://www.reddit.com/r/StupidFood/
 - https://www.reddit.com/r/thanksimcured/
+- https://www.reddit.com/r/TheNightFeeling/
 - https://www.reddit.com/r/touhou/
 - https://www.reddit.com/r/TrueOffMyChest/
 - https://www.reddit.com/r/UnresolvedMysteries/
+- https://www.reddit.com/r/Weird/
 - https://www.reddit.com/r/wifi/
 - https://www.reddit.com/r/xfce/
 - https://www.reddit.com/r/Yanderes/
+- https://www.reddit.com/r/yurimemes/
 
 ---
 
