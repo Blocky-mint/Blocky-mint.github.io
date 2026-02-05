@@ -54,8 +54,10 @@ permalink: /interesting-android-app/
 - [Ente Photos](https://play.google.com/store/apps/details?id=io.ente.photos) by [Ente Technologies, Inc.](https://play.google.com/store/apps/dev?id=7619109578149549915)
 - [AlexCalc](https://play.google.com/store/apps/details?id=net.alexbarry.calc_android) by Alex Barry3
 - [Desmos Graphing Calculator](https://play.google.com/store/apps/details?id=com.desmos.calculator) by Desmos Inc
-
-
+- [NodeVideo](https://play.google.com/store/apps/details?id=com.shallwaystudio.nodevideo&hl=en-US) by [Shallway Studio](https://play.google.com/store/apps/developer?id=Shallway+Studio)
+- [Alight Motion](https://play.google.com/store/apps/details?id=com.alightcreative.motion&hl=en-US) by [Alight Motion](https://play.google.com/store/apps/developer?id=Alight+Motion&hl=en-US)
+- [Wink](https://play.google.com/store/apps/details?id=com.meitu.wink&hl=en) by [Meitu (China) Limited](https://play.google.com/store/apps/developer?id=Meitu+%28China%29+Limited&hl=en)
+- [TimeCut](https://play.google.com/store/apps/details?id=com.accarunit.slowmotion&hl=en-US) by [changpeng](https://play.google.com/store/apps/developer?id=changpeng&hl=en-US)
 
 ### laptop app on linuxmint:
 
