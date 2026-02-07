@@ -60,9 +60,9 @@ permalink: /interesting-android-app/
 - [TimeCut](https://play.google.com/store/apps/details?id=com.accarunit.slowmotion&hl=en-US) by [changpeng](https://play.google.com/store/apps/developer?id=changpeng&hl=en-US)
 - [SpamBlocker](https://github.com/aj3423/SpamBlocker) by [aj3423](https://github.com/aj3423)
 - [Exclave](https://github.com/dyhkwong/Exclave) by [dyhkwong](https://github.com/dyhkwong)
-
-
-
+- [KeepassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) by [Kunzisoft](https://github.com/Kunzisoft)
+- [OpenKeyChain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain) by [open-keychain](https://play.google.com/store/apps/dev?id=6776671551970442053)
+- [Neo-Store (F-Droid wrapper)](https://codeberg.org/NeoApplications/Neo-Store] by [NeoApplications](https://codeberg.org/NeoApplications)
 
 
 ### laptop app on linuxmint:
@@ -73,3 +73,5 @@ permalink: /interesting-android-app/
 - [Battle for Wesnoth](https://flathub.org/apps/org.wesnoth.Wesnoth) (software manager)
 - [DDLC](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) (Steam version)
 - [Muck](https://store.steampowered.com/app/1625450/Muck/) by [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDsjkc1hg)
+- [KeepassXC](https://github.com/keepassxreboot/keepassxc) by [keepassxreboot](https://github.com/keepassxreboot)
+- [VaultWarden](https://github.com/dani-garcia/vaultwarden) by [dani-garcia](https://github.com/dani-garcia)
