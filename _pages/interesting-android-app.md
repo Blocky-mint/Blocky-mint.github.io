@@ -58,6 +58,12 @@ permalink: /interesting-android-app/
 - [Alight Motion](https://play.google.com/store/apps/details?id=com.alightcreative.motion&hl=en-US) by [Alight Motion](https://play.google.com/store/apps/developer?id=Alight+Motion&hl=en-US)
 - [Wink](https://play.google.com/store/apps/details?id=com.meitu.wink&hl=en) by [Meitu (China) Limited](https://play.google.com/store/apps/developer?id=Meitu+%28China%29+Limited&hl=en)
 - [TimeCut](https://play.google.com/store/apps/details?id=com.accarunit.slowmotion&hl=en-US) by [changpeng](https://play.google.com/store/apps/developer?id=changpeng&hl=en-US)
+- [SpamBlocker](https://github.com/aj3423/SpamBlocker) by [aj3423](https://github.com/aj3423)
+- [Exclave](https://github.com/dyhkwong/Exclave) by [dyhkwong](https://github.com/dyhkwong)
+
+
+
+
 
 ### laptop app on linuxmint:
 
