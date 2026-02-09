@@ -27,7 +27,7 @@ permalink: /interesting-android-app/
 - [WiFi Analyzer](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer) by [VREM Software Development](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/)
 - [Aegis authenticator](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) by [Beem Development](https://getaegis.app/)
 - [Network Survey](https://play.google.com/store/apps/details?id=com.craxiom.networksurvey) by [Craxiom](https://networksurvey.app/)
-- [All Documents Reader](https://play.google.com/store/apps/details?id=com.trusted.office.documents.reader) by [TrustedOffice](https://play.google.com/store/apps/dev?id=8406273496943086949)
+- [OnlyOffice](https://play.google.com/store/apps/details?id=com.onlyoffice.documents) by Ascensio System SIA
 - [BlueSky](https://play.google.com/store/apps/details?id=xyz.blueskyweb.app) by [BlueSky PBLLC](https://bsky.social/)
 - [Proton Calendar](https://play.google.com/store/apps/details?id=me.proton.android.calendar) by [Proton AG](https://proton.me/calendar)
 - [LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app) by [Tien Do Nam](https://localsend.org/)
@@ -63,7 +63,7 @@ permalink: /interesting-android-app/
 - [KeepassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) by [Kunzisoft](https://github.com/Kunzisoft)
 - [OpenKeyChain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain) by [open-keychain](https://play.google.com/store/apps/dev?id=6776671551970442053)
 - [Neo-Store (F-Droid wrapper)](https://codeberg.org/NeoApplications/Neo-Store) by [NeoApplications](https://codeberg.org/NeoApplications)
-
+- [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) by QuantumBadger LLC
 
 ### laptop app on linuxmint:
 
