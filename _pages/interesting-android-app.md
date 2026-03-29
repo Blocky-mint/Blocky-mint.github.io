@@ -66,7 +66,9 @@ permalink: /interesting-android-app/
 - [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) by QuantumBadger LLC
 - Episteme
 
-- AnyApk
+- InstallerX Revived
+
+- Shizuku
 
 ### laptop app on linuxmint:
 
