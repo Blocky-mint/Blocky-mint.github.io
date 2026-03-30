@@ -64,11 +64,10 @@ permalink: /interesting-android-app/
 - [OpenKeyChain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain) by [open-keychain](https://play.google.com/store/apps/dev?id=6776671551970442053)
 - [Neo-Store (F-Droid wrapper)](https://codeberg.org/NeoApplications/Neo-Store) by [NeoApplications](https://codeberg.org/NeoApplications)
 - [RedReader](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) by QuantumBadger LLC
-- Episteme
-
-- InstallerX Revived
-
-- Shizuku
+- [Episteme](https://github.com/Aryan-Raj3112/episteme)
+- [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
+- [Shizuku](https://github.com/RikkaApps/Shizuku)
+- [Dhizuku](https://github.com/iamr0s/Dhizuku)
 
 ### laptop app on linuxmint:
 
