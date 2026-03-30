@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Android App"
-permalink: /interesting-android-app/
+permalink: /important-android-app/
 ---
 
 # list of most of my installed apps on google play store, github, and steam (in case if my phone or laptop is stolen or accidentally destroyed)
@@ -76,6 +76,7 @@ permalink: /interesting-android-app/
 - [Discord](https://discord.com/download) (.deb version)
 - [Battle for Wesnoth](https://flathub.org/apps/org.wesnoth.Wesnoth) (software manager)
 - [DDLC](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/) (Steam version)
+- [Kimi to Kanojo no LILYVAGANZA](https://store.steampowered.com/app/3099840/Kimi_to_Kanojo_no_LILYVAGANZA/)
 - [Muck](https://store.steampowered.com/app/1625450/Muck/) by [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDsjkc1hg)
 - [KeepassXC](https://github.com/keepassxreboot/keepassxc) by [keepassxreboot](https://github.com/keepassxreboot)
 - [VaultWarden](https://github.com/dani-garcia/vaultwarden) by [dani-garcia](https://github.com/dani-garcia)
