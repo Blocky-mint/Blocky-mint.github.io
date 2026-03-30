@@ -11,7 +11,7 @@ header:
     - label: "About Me"
       url: "/about/"
     - label: "Android App"
-      url: "/interesting-android-app/"
+      url: "/important-android-app/"
     - label: "AI Roleplay"
       url: "/character-card-list/"
     - label: "My bookmarks"
