@@ -68,6 +68,8 @@ permalink: /important-android-app/
 - [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
 - [Dhizuku](https://github.com/iamr0s/Dhizuku)
+- [Element X](https://play.google.com/store/apps/details?id=io.element.android.x)
+
 
 ### laptop app on linuxmint:
 
