@@ -69,7 +69,7 @@ permalink: /important-android-app/
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
 - [Dhizuku](https://github.com/iamr0s/Dhizuku)
 - [Element X](https://play.google.com/store/apps/details?id=io.element.android.x)
-
+- [Morphe](https://github.com/MorpheApp/morphe-manager)
 
 ### laptop app on linuxmint:
 
