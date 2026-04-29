@@ -33,6 +33,8 @@ A curated list of interesting character card sites. Be warned: the content withi
 
 - https://nyai.me/ai/bots
 
+- https://botbooru.com/
+
 
 Also, some recommended creator from a certain reddit user:
 
