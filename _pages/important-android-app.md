@@ -19,7 +19,7 @@ permalink: /important-android-app/
 - [GitHub](https://play.google.com/store/apps/details?id=com.github.android) by [GitHub](https://github.com/) (bruh)
 - [Roblox](https://play.google.com/store/apps/details?id=com.roblox.client) by [Roblox Corporation](https://www.roblox.com/)
 - [Discord](https://play.google.com/store/apps/details?id=com.discord) by [Discord Inc](https://discord.com/)
-- [Chess](https://play.google.com/store/apps/details?id=com.chess) by [Chess.com](https://www.chess.com/)
+- [Lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) by [lichess.org](https://www.lichess.org/)
 - [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) by [Dynalist Inc](https://obsidian.md/)
 - [Delta chat](https://play.google.com/store/apps/details?id=com.b44t.messenger) by [merlinux](https://delta.chat/)
 - [Google NotebookLM](https://play.google.com/store/apps/details?id=com.google.android.apps.notebooklm) by [Google](https://notebooklm.google.com/) (obviously)
