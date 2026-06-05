@@ -72,7 +72,7 @@ permalink: /important-android-app/
 - [Morphe](https://github.com/MorpheApp/morphe-manager)
 - [Azur Lane](https://play.google.com/store/apps/details?id=com.YoStarEN.AzurLane)
 - [Brown Dust 2](https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2)
-
+- [Girl's Frontline 2](https://play.google.com/store/apps/details?id=com.Sunborn.SnqxExilium.Glo)
 
 
 
