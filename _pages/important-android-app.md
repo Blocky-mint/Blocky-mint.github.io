@@ -70,6 +70,12 @@ permalink: /important-android-app/
 - [Dhizuku](https://github.com/iamr0s/Dhizuku)
 - [Element X](https://play.google.com/store/apps/details?id=io.element.android.x)
 - [Morphe](https://github.com/MorpheApp/morphe-manager)
+- [Azur Lane](https://play.google.com/store/apps/details?id=com.YoStarEN.AzurLane)
+-
+
+
+
+
 
 ### laptop app on linuxmint:
 
