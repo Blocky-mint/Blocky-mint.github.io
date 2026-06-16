@@ -74,7 +74,7 @@ permalink: /important-android-app/
 - [Brown Dust 2](https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2)
 - [Girl's Frontline 2](https://play.google.com/store/apps/details?id=com.Sunborn.SnqxExilium.Glo)
 - Honkai series
-- 
+- [Mobile Legends; Adventure](https://play.google.com/store/apps/details?id=com.moonton.akakuro)
 
 
 
