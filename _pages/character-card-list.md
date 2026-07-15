@@ -35,6 +35,7 @@ A curated list of interesting character card sites. Be warned: the content withi
 
 - https://botbooru.com/
 
+- https://datacat.run/
 
 Also, some recommended creator from a certain reddit user:
 
