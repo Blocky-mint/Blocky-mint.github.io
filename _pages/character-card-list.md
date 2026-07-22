@@ -9,19 +9,19 @@ A curated list of interesting character card sites. Be warned: the content withi
 
 - https://soulweaverai.com/
 
-- char-archive.evulid.cc
+- https://char-archive.evulid.cc
 
-- character-tavern.com
+- https://character-tavern.com
 
-- jannyai.com
+- https://jannyai.com
 
-- characterhub.org
+- https://characterhub.org
 
-- chub.ai
+- https://chub.ai
 
-- rentry.org/charcardrentrylist
+- https://rentry.org/charcardrentrylist
 
-- rentry.org/meta_bot_list
+- https://rentry.org/meta_bot_list
 
 - https://backyard.ai/hub
 
