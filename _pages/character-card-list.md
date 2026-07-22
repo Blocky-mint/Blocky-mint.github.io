@@ -39,7 +39,7 @@ A curated list of interesting character card sites. Be warned: the content withi
 
 - https://chatbots.neocities.org/
 
-Also, some recommended creator from a certain reddit user:
+second, some recommended creator from a certain reddit user:
 
 
 "Depends on your taste, but for quality-wise I heavily recommend
@@ -61,6 +61,17 @@ Also, some recommended creator from a certain reddit user:
     @horcocks - Someone who does good scenarios or chars"
 
 
-also, some general tips and tricks in this reddit post:
+third, some general tips and tricks in this reddit post:
 
 https://www.reddit.com/r/SillyTavernAI/comments/1v1rly4/where_to_find_character_cards/
+
+
+fourth, some useful links/citation related to this topic:
+
+https://www.reddit.com/r/SillyTavernAI/comments/1tnmjkq/how_to_write_good_character_cards/
+
+https://www.reddit.com/r/SillyTavernAI/comments/1ge0bqp/best_character_card_format/
+
+https://huggingface.co/sphiratrioth666/GM-5_Game_Mistress_Roleplaying_System
+
+https://huggingface.co/LeonardoCreator/Leonardo/tree/main
