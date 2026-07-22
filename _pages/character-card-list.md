@@ -37,6 +37,8 @@ A curated list of interesting character card sites. Be warned: the content withi
 
 - https://datacat.run/
 
+- https://chatbots.neocities.org/
+
 Also, some recommended creator from a certain reddit user:
 
 
