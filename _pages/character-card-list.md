@@ -59,3 +59,8 @@ Also, some recommended creator from a certain reddit user:
     @Vyrea_Aster - O'l Classic high quality and unique Corruption/Mind Control and Unique Chars.
     
     @horcocks - Someone who does good scenarios or chars"
+
+
+also, some general tips and tricks in this reddit post:
+
+https://www.reddit.com/r/SillyTavernAI/comments/1v1rly4/where_to_find_character_cards/
