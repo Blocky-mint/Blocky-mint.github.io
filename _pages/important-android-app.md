@@ -76,7 +76,7 @@ permalink: /important-android-app/
 - Honkai series
 - [Mobile Legends; Adventure](https://play.google.com/store/apps/details?id=com.moonton.akakuro)
 - [Haze Reverb](https://play.google.com/store/apps/details?id=com.gennmugame.hazereverb)
-
+- [Neural Cloud](https://play.google.com/store/apps/details?id=com.sunborn.neuralcloud.en)
 
 ### laptop app on linuxmint:
 
